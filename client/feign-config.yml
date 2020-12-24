@@ -1,4 +1,5 @@
 spring:
+  profiles: ssk
   application:
     name: cloud-comsumer-feign
   thymeleaf:
